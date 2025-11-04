@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "ANSI-codeblock",
+	"name": "ANSI Codeblock",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This is a plugin for Obsidian (https://obsidian.md) to display ANSI code blocks",
+	"author": "zyazhb",
+	"authorUrl": "https://github.com/zyazhb/",
+	"fundingUrl": "https://github.com/sponsors/zyazhb",
 	"isDesktopOnly": false
 }
